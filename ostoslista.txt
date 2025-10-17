@@ -1,4 +1,8 @@
 maito
 jallu
+<<<<<<< Updated upstream
 kossu
 viini
+=======
+viina
+>>>>>>> Stashed changes
